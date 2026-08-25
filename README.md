@@ -9,3 +9,6 @@ After changes
 - git status (check for green)
 - git commit -m "put message here"
 - git push
+
+New edit: code command
+- used "code" then project_name to open a project in vs code from terminal
