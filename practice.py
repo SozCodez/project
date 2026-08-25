@@ -15,4 +15,5 @@ printtestadd = ", one moment."
 
 #To print in console v
 print(printtest + printtestadd)
+print(printtestadd + printtest)
 
