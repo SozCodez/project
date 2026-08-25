@@ -15,5 +15,9 @@ printTestAdd = ", one moment."
 
 #To print in console v
 print(printTest + printTestAdd)
-print(printTestAdd + printTest)
+#print(printTestAdd + printTest)
 
+numberOfStudents = "21"
+your_grade = 52.5
+
+print("there are " + numberOfStudents + " students in class today.")
