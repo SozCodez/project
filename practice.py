@@ -24,5 +24,12 @@ secondNum = 4
 
 sum = firstNum + secondNum
 
+firstName = "Samuel"
+lastName = "Benitez"
+nameSpace = " "
+fullName = firstName + nameSpace + lastName
+
 print("there are " + numberOfStudents + " students in class today.")
 print(sum)
+print(fullName)
+
