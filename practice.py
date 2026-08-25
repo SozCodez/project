@@ -10,10 +10,10 @@ randomcomment
 random comment"""
 
 #To make a Variable v
-printtest = "Yes maam"
-printtestadd = ", one moment."
+printTest = "Yes maam"
+printTestAdd = ", one moment."
 
 #To print in console v
-print(printtest + printtestadd)
-print(printtestadd + printtest)
+print(printTest + printTestAdd)
+print(printTestAdd + printTest)
 
