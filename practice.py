@@ -7,7 +7,7 @@ randomcommentrandomcomment
 random comment
 random comment random comment
 randomcomment
-rand comment"""
+random comment"""
 
 #To make a Variable v
 printtest = "Yes maam"
