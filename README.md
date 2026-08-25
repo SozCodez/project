@@ -17,3 +17,6 @@ New edit: code command
 - make sure cmd+shft+p "shell to path" is installed to vs
 """
 
+Making a Python file
+in vs studio add .py to the end to be recognized as a python file
+

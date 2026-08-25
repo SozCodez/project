@@ -8,3 +8,9 @@ random comment
 random comment random comment
 randomcomment
 rand comment"""
+
+#To make a Variable v
+printtest = "Yes maam"
+
+#To print in console v
+print(printtest)
