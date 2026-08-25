@@ -33,3 +33,8 @@ print("there are " + numberOfStudents + " students in class today.")
 print(sum)
 print(fullName)
 
+print("What is your grade? ")
+
+grade = input("Enter grade")
+
+print(grade + "?")
