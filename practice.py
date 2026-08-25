@@ -11,6 +11,8 @@ random comment"""
 
 #To make a Variable v
 printtest = "Yes maam"
+printtestadd = ", one moment."
 
 #To print in console v
-print(printtest)
+print(printtest + printtestadd)
+

@@ -20,3 +20,4 @@ New edit: code command
 Making a Python file
 in vs studio add .py to the end to be recognized as a python file
 
+Update: added 2 variables together in 'print' command
