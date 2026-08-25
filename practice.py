@@ -19,5 +19,10 @@ print(printTest + printTestAdd)
 
 numberOfStudents = "21"
 your_grade = 52.5
+firstNum = 22
+secondNum = 4
+
+sum = firstNum + secondNum
 
 print("there are " + numberOfStudents + " students in class today.")
+print(sum)
